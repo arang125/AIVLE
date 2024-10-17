@@ -1,0 +1,6 @@
+[submodule "mp7"]
+	path = mp7
+	url = https://github.com/Aivle4th-team3/Miniproject-7
+[submodule "Big-Project/Aplus-EDU"]
+	path = Big-Project/Aplus-EDU
+	url = https://github.com/Aivle4th-team3/Aplus-EDU
